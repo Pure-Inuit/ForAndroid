@@ -1,2 +1,2 @@
-Git is a system control tool
+Git is a distributed control system.
 
